@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/5236/branches/release-0.93/tests/stress/persistent-coasters/mcs/10x10
+END
+catsn_random.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/5236/branches/release-0.93/tests/stress/persistent-coasters/mcs/10x10/catsn_random.setup.sh
+END
+catsn_random.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/5236/branches/release-0.93/tests/stress/persistent-coasters/mcs/10x10/catsn_random.clean.sh
+END
+coaster-service.conf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/5236/branches/release-0.93/tests/stress/persistent-coasters/mcs/10x10/coaster-service.conf
+END
+catsn_random.swift
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/5236/branches/release-0.93/tests/stress/persistent-coasters/mcs/10x10/catsn_random.swift
+END
+catsn_random.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/5236/branches/release-0.93/tests/stress/persistent-coasters/mcs/10x10/catsn_random.check.sh
+END
+gendata.pl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/5236/branches/release-0.93/tests/stress/persistent-coasters/mcs/10x10/gendata.pl
+END

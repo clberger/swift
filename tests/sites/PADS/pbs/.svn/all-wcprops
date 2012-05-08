@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs
+END
+catsn.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.setup.sh
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/data.txt
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/tc.template.data
+END
+catsn.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.timeout
+END
+catsn.0010.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0010.out.expected
+END
+catsn.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0001.out.expected
+END
+catsn.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0002.out.expected
+END
+catsn.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0003.out.expected
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/sites.template.xml
+END
+catsn.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0004.out.expected
+END
+catsn.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0005.out.expected
+END
+catsn.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0006.out.expected
+END
+catsn.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.swift
+END
+catsn.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0007.out.expected
+END
+catsn.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0008.out.expected
+END
+catsn.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/PADS/pbs/catsn.0009.out.expected
+END

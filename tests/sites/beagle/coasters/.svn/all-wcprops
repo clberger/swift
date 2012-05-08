@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters/title.txt
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters/sites.template.xml
+END
+001-catsn.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters/001-catsn.swift
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters/data.txt
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters/tc.template.data
+END
+001-catsn.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters/001-catsn.check.sh
+END
+001-catsn.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters/001-catsn.timeout
+END
+001-catsn.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/coasters/001-catsn.setup.sh
+END

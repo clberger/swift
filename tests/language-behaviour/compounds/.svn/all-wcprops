@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/compounds
+END
+0024-compound.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/compounds/0024-compound.swift
+END
+00241-nested-single-compound.swift
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/compounds/00241-nested-single-compound.swift
+END
+00242-compound-with-vars.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/compounds/00242-compound-with-vars.swift
+END
+0024-compound.Q.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/compounds/0024-compound.Q.out.expected
+END
+0024-compound.R.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/compounds/0024-compound.R.out.expected
+END
+00241-nested-single-compound.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/compounds/00241-nested-single-compound.out.expected
+END

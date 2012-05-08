@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/5314/branches/release-0.93/src/org/griphyn/vdl/engine
+END
+VariableScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/engine/VariableScope.java
+END
+FormalArgumentSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/engine/FormalArgumentSignature.java
+END
+Karajan.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5314/branches/release-0.93/src/org/griphyn/vdl/engine/Karajan.java
+END
+ProcedureSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/engine/ProcedureSignature.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/data.txt
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/tc.template.data
+END
+001-catsn.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/001-catsn.timeout
+END
+001-catsn.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/001-catsn.check.sh
+END
+catsn.0010.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0010.out.expected
+END
+catsn.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0001.out.expected
+END
+catsn.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0002.out.expected
+END
+catsn.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0003.out.expected
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/sites.template.xml
+END
+catsn.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0004.out.expected
+END
+catsn.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0005.out.expected
+END
+001-catsn.swift
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/001-catsn.swift
+END
+catsn.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0006.out.expected
+END
+catsn.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0007.out.expected
+END
+catsn.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0008.out.expected
+END
+catsn.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/catsn.0009.out.expected
+END
+001-catsn.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/beagle/pbs/001-catsn.setup.sh
+END

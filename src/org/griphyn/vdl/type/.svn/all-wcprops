@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/type
+END
+NoSuchTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/type/NoSuchTypeException.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/type/Type.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/type/Field.java
+END
+Types.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/type/Types.java
+END
+DuplicateFieldException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/type/DuplicateFieldException.java
+END

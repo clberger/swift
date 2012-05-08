@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/certificate
+END
+b0cb24a8.signing_policy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/certificate/b0cb24a8.signing_policy
+END
+swift.userkey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/certificate/swift.userkey.pem
+END
+b0cb24a8.0
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/certificate/b0cb24a8.0
+END
+x509up_swift
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/certificate/x509up_swift
+END
+swift.usercert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/certificate/swift.usercert.pem
+END

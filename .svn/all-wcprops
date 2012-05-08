@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/vdl2/!svn/ver/5701/branches/release-0.93
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vdl2/!svn/ver/4958/branches/release-0.93/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/project.properties
+END
+launchers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/launchers.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/vdl2/!svn/ver/4958/branches/release-0.93/.project
+END
+dependencies.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/dependencies.xml
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vdl2/!svn/ver/4767/branches/release-0.93/CHANGES.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vdl2/!svn/ver/5334/branches/release-0.93/build.xml
+END

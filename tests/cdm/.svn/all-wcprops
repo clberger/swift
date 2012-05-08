@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vdl2/!svn/ver/5308/branches/release-0.93/tests/cdm
+END
+401-external.swift
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/401-external.swift
+END
+602-local-dd.swift
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/602-local-dd.swift
+END
+201-direct-output.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/201-direct-output.setup.sh
+END
+301-bcast.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/301-bcast.check.sh
+END
+601-local-cp.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/601-local-cp.check.sh
+END
+301-bcast.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/301-bcast.clean.sh
+END
+601-local-cp.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/601-local-cp.clean.sh
+END
+301-bcast.swift
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/301-bcast.swift
+END
+601-local-cp.swift
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/601-local-cp.swift
+END
+fs.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/fs.template.data
+END
+external.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/external.sh
+END
+401-external.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/401-external.setup.sh
+END
+602-local-dd.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/602-local-dd.setup.sh
+END
+201-direct-output.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/201-direct-output.check.sh
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/title.txt
+END
+201-direct-output.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/201-direct-output.clean.sh
+END
+201-direct-output.swift
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/201-direct-output.swift
+END
+301-bcast.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/301-bcast.setup.sh
+END
+601-local-cp.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/601-local-cp.setup.sh
+END
+401-external.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/401-external.check.sh
+END
+602-local-dd.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/602-local-dd.check.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/README.txt
+END
+401-external.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/401-external.clean.sh
+END
+602-local-dd.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/602-local-dd.clean.sh
+END

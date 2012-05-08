@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math
+END
+009-multiply.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/009-multiply.clean.sh
+END
+007-add-in-proc-add.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/007-add-in-proc-add.clean.sh
+END
+0145-unary-subtact.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/0145-unary-subtact.clean.sh
+END
+018-less.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/018-less.out.expected
+END
+030-mix-float-int.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/030-mix-float-int.clean.sh
+END
+0145-unary-subtact.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/0145-unary-subtact.swift
+END
+014-subtract.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/014-subtract.clean.sh
+END
+030-mix-float-int.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/030-mix-float-int.swift
+END
+013-mod.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/013-mod.out.expected
+END
+006-add.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/006-add.swift
+END
+015-lesseq.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/015-lesseq.clean.sh
+END
+019-equals.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/019-equals.clean.sh
+END
+011-divide-float.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/011-divide-float.clean.sh
+END
+011-divide-float.swift
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/011-divide-float.swift
+END
+006-add.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/006-add.out.expected
+END
+031-add-float.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/031-add-float.out.expected
+END
+017-greater.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/017-greater.out.expected
+END
+018-less.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/018-less.clean.sh
+END
+018-less.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/018-less.swift
+END
+010-divide.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/010-divide.out.expected
+END
+013-mod.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/013-mod.clean.sh
+END
+013-mod.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/013-mod.swift
+END
+016-greatereq.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/016-greatereq.swift
+END
+008-add-multiply.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/008-add-multiply.out.expected
+END
+009-multiply.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/009-multiply.swift
+END
+007-add-in-proc-add.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/007-add-in-proc-add.swift
+END
+014-subtract.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/014-subtract.swift
+END
+006-add.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/006-add.clean.sh
+END
+0191-not-equals.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/0191-not-equals.out.expected
+END
+031-add-float.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/031-add-float.clean.sh
+END
+031-add-float.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/031-add-float.swift
+END
+017-greater.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/017-greater.clean.sh
+END
+016-greatereq.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/016-greatereq.out.expected
+END
+017-greater.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/017-greater.swift
+END
+015-lesseq.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/015-lesseq.swift
+END
+009-multiply.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/009-multiply.out.expected
+END
+010-divide.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/010-divide.clean.sh
+END
+019-equals.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/019-equals.swift
+END
+010-divide.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/010-divide.swift
+END
+0145-unary-subtact.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/0145-unary-subtact.out.expected
+END
+030-mix-float-int.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/030-mix-float-int.out.expected
+END
+014-subtract.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/014-subtract.out.expected
+END
+008-add-multiply.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/008-add-multiply.clean.sh
+END
+015-lesseq.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/015-lesseq.out.expected
+END
+008-add-multiply.swift
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/008-add-multiply.swift
+END
+019-equals.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/019-equals.out.expected
+END
+0191-not-equals.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/0191-not-equals.clean.sh
+END
+0191-not-equals.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/0191-not-equals.swift
+END
+011-divide-float.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4964/branches/release-0.93/tests/language-behaviour/math/011-divide-float.out.expected
+END
+016-greatereq.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/math/016-greatereq.clean.sh
+END

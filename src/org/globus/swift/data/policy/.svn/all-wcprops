@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy
+END
+Policy.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy/Policy.java
+END
+Broadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy/Broadcast.java
+END
+External.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy/External.java
+END
+Default.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy/Default.java
+END
+AllocationHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy/AllocationHook.java
+END
+Direct.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy/Direct.java
+END
+Gather.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy/Gather.java
+END
+Local.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/data/policy/Local.java
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass
+END
+003-catsn.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.setup.sh
+END
+001-catsn.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0001.out.expected
+END
+001-catsn.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.timeout
+END
+003-catsn.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0001.out.expected
+END
+001-catsn.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0003.out.expected
+END
+002-catsnbroken.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0001.out.expected
+END
+003-catsn.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.timeout
+END
+003-catsn.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0003.out.expected
+END
+001-catsn.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0005.out.expected
+END
+002-catsnbroken.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0003.out.expected
+END
+003-catsn.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0005.out.expected
+END
+002-catsnbroken.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0005.out.expected
+END
+001-catsn.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0007.out.expected
+END
+003-catsn.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0007.out.expected
+END
+002-catsnbroken.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0007.out.expected
+END
+001-catsn.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0009.out.expected
+END
+003-catsn.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0009.out.expected
+END
+002-catsnbroken.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0009.out.expected
+END
+coaster-service.conf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/coaster-service.conf
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/data.txt
+END
+001-catsn.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0002.out.expected
+END
+003-catsn.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0002.out.expected
+END
+001-catsn.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0004.out.expected
+END
+002-catsnbroken.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0002.out.expected
+END
+003-catsn.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0004.out.expected
+END
+001-catsn.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0006.out.expected
+END
+002-catsnbroken.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0004.out.expected
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/sites.template.xml
+END
+001-catsn.swift
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.swift
+END
+003-catsn.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0006.out.expected
+END
+002-catsnbroken.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0006.out.expected
+END
+001-catsn.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.0008.out.expected
+END
+002-catsnbroken.swift
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.swift
+END
+003-catsn.swift
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.swift
+END
+003-catsn.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/003-catsn.0008.out.expected
+END
+002-catsnbroken.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/002-catsnbroken.0008.out.expected
+END
+001-catsn.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/stress/persistent-coasters/pass-fail-pass/001-catsn.setup.sh
+END

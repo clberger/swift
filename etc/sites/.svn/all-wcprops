@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vdl2/!svn/ver/5473/branches/release-0.93/etc/sites
+END
+ssh-pbs-coasters
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/sites/ssh-pbs-coasters
+END
+persistent-coasters
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/5412/branches/release-0.93/etc/sites/persistent-coasters
+END
+mcs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vdl2/!svn/ver/5452/branches/release-0.93/etc/sites/mcs
+END
+sge-local
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/sites/sge-local
+END
+pads
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/sites/pads
+END
+queenbee
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/sites/queenbee
+END
+local
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vdl2/!svn/ver/5168/branches/release-0.93/etc/sites/local
+END
+local-coasters
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/5168/branches/release-0.93/etc/sites/local-coasters
+END
+intrepid
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vdl2/!svn/ver/5473/branches/release-0.93/etc/sites/intrepid
+END
+surveyor
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/sites/surveyor
+END

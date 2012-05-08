@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/5105/branches/release-0.93/tests/language-behaviour/datatypes
+END
+056-struct-stage-out.b.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5105/branches/release-0.93/tests/language-behaviour/datatypes/056-struct-stage-out.b.expected
+END
+regress-r2292.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/regress-r2292.clean.sh
+END
+023-complex-type.swift
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/023-complex-type.swift
+END
+056-struct-stage-out.c.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5105/branches/release-0.93/tests/language-behaviour/datatypes/056-struct-stage-out.c.expected
+END
+regress-r2292.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/regress-r2292.swift
+END
+028-double-character-typename.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/028-double-character-typename.clean.sh
+END
+028-double-character-typename.swift
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/028-double-character-typename.swift
+END
+053-pass-int.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/053-pass-int.check.sh
+END
+054-pass-int.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/054-pass-int.check.sh
+END
+032-boolconst.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/032-boolconst.check.sh
+END
+055-pass-int.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/055-pass-int.check.sh
+END
+027-single-character-typename.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/027-single-character-typename.clean.sh
+END
+027-single-character-typename.swift
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/027-single-character-typename.swift
+END
+053-pass-int.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/053-pass-int.clean.sh
+END
+056-struct-stage-out.swift
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/5105/branches/release-0.93/tests/language-behaviour/datatypes/056-struct-stage-out.swift
+END
+053-pass-int.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/053-pass-int.swift
+END
+032-boolconst.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/032-boolconst.clean.sh
+END
+0231-complex-type.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/0231-complex-type.check.sh
+END
+023-complex-type.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/023-complex-type.out.expected
+END
+054-pass-int.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/054-pass-int.clean.sh
+END
+056-struct-stage-out.mapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/5105/branches/release-0.93/tests/language-behaviour/datatypes/056-struct-stage-out.mapper.sh
+END
+032-boolconst.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/032-boolconst.swift
+END
+054-pass-int.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/054-pass-int.swift
+END
+055-pass-int.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/055-pass-int.clean.sh
+END
+055-pass-int.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/055-pass-int.swift
+END
+0231-complex-type.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/0231-complex-type.clean.sh
+END
+0231-complex-type.swift
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/datatypes/0231-complex-type.swift
+END
+056-struct-stage-out.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/5105/branches/release-0.93/tests/language-behaviour/datatypes/056-struct-stage-out.setup.sh
+END

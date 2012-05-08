@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/vdl2/!svn/ver/5484/branches/release-0.93/libexec
+END
+_swiftwrap.staging
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/5348/branches/release-0.93/libexec/_swiftwrap.staging
+END
+vdl-sc.k
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/vdl-sc.k
+END
+cdm_cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/cdm_cleanup.sh
+END
+_swiftwrap
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vdl2/!svn/ver/5004/branches/release-0.93/libexec/_swiftwrap
+END
+vdl-lib.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/vdl-lib.xml
+END
+release.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/5484/branches/release-0.93/libexec/release.txt
+END
+cdm_broadcast.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/cdm_broadcast.sh
+END
+vdl-int-staging.k
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4963/branches/release-0.93/libexec/vdl-int-staging.k
+END
+cdm_lib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/cdm_lib.sh
+END
+svn-revision
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/5286/branches/release-0.93/libexec/svn-revision
+END
+generate-buildid
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/generate-buildid
+END
+_swiftseq
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/_swiftseq
+END
+vdl-int.k
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vdl2/!svn/ver/4963/branches/release-0.93/libexec/vdl-int.k
+END
+vdl-xs.k
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/vdl-xs.k
+END
+execute-typecheck.k
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/execute-typecheck.k
+END
+execute-dryrun.k
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/execute-dryrun.k
+END
+scheduler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/scheduler.xml
+END
+operators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/operators.xml
+END
+execute-default.k
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/execute-default.k
+END
+cdm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/cdm.pl
+END
+_swiftwrap.vbs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/_swiftwrap.vbs
+END
+vdl.k
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/libexec/vdl.k
+END

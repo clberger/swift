@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing
+END
+GanttChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/GanttChart.java
+END
+SwingMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/SwingMonitor.java
+END
+TransferProgressRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/TransferProgressRenderer.java
+END
+TransferProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/TransferProgress.java
+END
+ApplicationTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/ApplicationTable.java
+END
+ClassRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/ClassRenderer.java
+END
+TasksRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/TasksRenderer.java
+END
+FilteringTaskTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/FilteringTaskTable.java
+END
+SimpleTableClassRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/swing/SimpleTableClassRenderer.java
+END

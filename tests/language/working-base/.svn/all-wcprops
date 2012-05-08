@@ -1,0 +1,863 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base
+END
+0341-whitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0341-whitespace.xml
+END
+040-many-namespaces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/040-many-namespaces.xml
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/default.xml
+END
+060-stdinouterr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/060-stdinouterr.xml
+END
+q16.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q16.txt
+END
+three.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/three.txt
+END
+0065-fn-in-fn-simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0065-fn-in-fn-simple.xml
+END
+two.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/two.txt
+END
+type-marker-braces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/type-marker-braces.xml
+END
+03102-var-decl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/03102-var-decl.xml
+END
+034-whitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/034-whitespace.xml
+END
+028-namespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/028-namespace.xml
+END
+q13.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q13.xml
+END
+graph-rdmym86i.dot
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/graph-rdmym86i.dot
+END
+struct1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/struct1.xml
+END
+q15.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q15.xml
+END
+underscore-in-id.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/underscore-in-id.xml
+END
+q17.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q17.xml
+END
+graph1.dot
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/graph1.dot
+END
+029-namespace-bound.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/029-namespace-bound.xml
+END
+017-comment-doubleslash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/017-comment-doubleslash.xml
+END
+q1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q1.xml
+END
+q3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q3.xml
+END
+0063-two-functions-in-expr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0063-two-functions-in-expr.xml
+END
+q5.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q5.xml
+END
+0471-fmri.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0471-fmri.xml
+END
+graph.dot
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/graph.dot
+END
+q7.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q7.xml
+END
+procedurecall-assign-multi-named-return-values.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/procedurecall-assign-multi-named-return-values.xml
+END
+q17.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q17.png
+END
+graph-k6yzn86i.dot
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/graph-k6yzn86i.dot
+END
+006-procedure-invocation-with-assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/006-procedure-invocation-with-assign.xml
+END
+00616-one-param-func-expr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/00616-one-param-func-expr.xml
+END
+0042-int-expr-assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0042-int-expr-assignment.xml
+END
+00617-one-param-func-expr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/00617-one-param-func-expr.xml
+END
+q20.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q20.xml
+END
+q22.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q22.xml
+END
+045-expr-in-array.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/045-expr-in-array.xml
+END
+q1.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q1.png
+END
+020-procedure-invocation-no-param.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/020-procedure-invocation-no-param.xml
+END
+022-app-procedure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/022-app-procedure.xml
+END
+019-comment-script.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/019-comment-script.xml
+END
+008-foreach.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/008-foreach.xml
+END
+043-compound-procedure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/043-compound-procedure.xml
+END
+hello.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/hello.txt
+END
+0041-int-assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0041-int-assignment.xml
+END
+016-mapper-noparam.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/016-mapper-noparam.xml
+END
+q20.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q20.png
+END
+003-string-array-assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/003-string-array-assignment.xml
+END
+english2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/english2.txt
+END
+047-LQCD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/047-LQCD.xml
+END
+array_iteration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/array_iteration.xml
+END
+q17.dot
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q17.dot
+END
+type-marker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/type-marker.xml
+END
+0200001-function-invocation-no-param.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0200001-function-invocation-no-param.xml
+END
+011-foreach.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/011-foreach.xml
+END
+q1.dot
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q1.dot
+END
+032-mapeprs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/032-mapeprs.xml
+END
+is.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/is.xml
+END
+002-type-without-semi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/002-type-without-semi.xml
+END
+042-compound-procedure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/042-compound-procedure.xml
+END
+escapes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/escapes.xml
+END
+arraymapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/arraymapper.xml
+END
+061-stdoutinerr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/061-stdoutinerr.xml
+END
+062-stdinerrout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/062-stdinerrout.xml
+END
+033-assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/033-assign.xml
+END
+q20.dot
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q20.dot
+END
+0061-assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0061-assignment.xml
+END
+case2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/case2.xml
+END
+031-var-decl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/031-var-decl.xml
+END
+035-typedef-empty-braces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/035-typedef-empty-braces.xml
+END
+is-complex-type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/is-complex-type.xml
+END
+03101-var-decl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/03101-var-decl.xml
+END
+three.count
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/three.count
+END
+030-typedef.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/030-typedef.xml
+END
+026-optional-arg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/026-optional-arg.xml
+END
+one.count
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/one.count
+END
+013-foreach-in-proc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/013-foreach-in-proc.xml
+END
+049-many-nested-statements.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/049-many-nested-statements.xml
+END
+001-type-with-semi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/001-type-with-semi.xml
+END
+051-nika.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/051-nika.xml
+END
+0062-two-param-func.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0062-two-param-func.xml
+END
+037-numeric-literals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/037-numeric-literals.xml
+END
+francais2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/francais2.txt
+END
+021-procedure-invocation-assign-no-param.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/021-procedure-invocation-assign-no-param.xml
+END
+046-tibi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/046-tibi.xml
+END
+023-leading-whitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/023-leading-whitespace.xml
+END
+one.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/one.txt
+END
+005-procedure-invocation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/005-procedure-invocation.xml
+END
+025-datatypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/025-datatypes.xml
+END
+q12.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q12.xml
+END
+039-montage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/039-montage.xml
+END
+018-comment-c-pairs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/018-comment-c-pairs.xml
+END
+q14.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q14.xml
+END
+q16.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q16.xml
+END
+helloworld.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/helloworld.xml
+END
+procedurecall-assign-named-return-value.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/procedurecall-assign-named-return-value.xml
+END
+helloworld_named.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/helloworld_named.xml
+END
+050-many-nested-statements-repeat-var.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/050-many-nested-statements-repeat-var.xml
+END
+graph-pqmzm86i.dot
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/graph-pqmzm86i.dot
+END
+038-identifier-with-keyword-prefix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/038-identifier-with-keyword-prefix.xml
+END
+015-mapper-literal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/015-mapper-literal.xml
+END
+010-foreach-array.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/010-foreach-array.xml
+END
+00615-one-param-func.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/00615-one-param-func.xml
+END
+q2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q2.xml
+END
+014-mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/014-mapper.xml
+END
+q6.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q6.xml
+END
+044-multiple-variable-decl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/044-multiple-variable-decl.xml
+END
+q8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q8.xml
+END
+range.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/range.xml
+END
+is-assign.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/is-assign.xml
+END
+is-dataset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/is-dataset.xml
+END
+q21.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q21.xml
+END
+graph-yr68o86i.dot
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/graph-yr68o86i.dot
+END
+q23.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/q23.xml
+END
+024-comment-multiline.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/024-comment-multiline.xml
+END
+diamond.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/diamond.xml
+END
+041-only-semi-r356.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/041-only-semi-r356.xml
+END
+009-foreach.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/009-foreach.xml
+END
+operators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/operators.xml
+END
+0311-var-decl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0311-var-decl.xml
+END
+007-procedure-invocation-with-assign-and-whitespace.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/007-procedure-invocation-with-assign-and-whitespace.xml
+END
+027-initializer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/027-initializer.xml
+END
+is-procedurecall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/is-procedurecall.xml
+END
+036-typedef-empty-semi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/036-typedef-empty-semi.xml
+END
+0064-fn-in-fn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0064-fn-in-fn.xml
+END
+array_index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/array_index.xml
+END
+012-foreach.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/012-foreach.xml
+END
+x.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/x.xml
+END
+procedurecall-assign-multireturnvalues.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/procedurecall-assign-multireturnvalues.xml
+END
+hello20.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/hello20.txt
+END
+048-many-namespaces-with-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/048-many-namespaces-with-default.xml
+END
+array_wildcard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/array_wildcard.xml
+END
+charm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/charm.xml
+END
+procedurecall-numeric-arg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/procedurecall-numeric-arg.xml
+END
+case1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/case1.xml
+END
+00618-expr-with-func.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/00618-expr-with-func.xml
+END
+case3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/case3.xml
+END
+0067-complicated-nested-fn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/0067-complicated-nested-fn.xml
+END
+two.count
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/two.count
+END
+procedurecall-assign-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/procedurecall-assign-1.xml
+END
+004-string-assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/004-string-assignment.xml
+END
+file_counter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working-base/file_counter.xml
+END

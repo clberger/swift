@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/groups
+END
+group-intrepid.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5135/branches/release-0.93/tests/groups/group-intrepid.sh
+END
+group-beagle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5135/branches/release-0.93/tests/groups/group-beagle.sh
+END
+group-mcs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5135/branches/release-0.93/tests/groups/group-mcs.sh
+END
+crayxt-pbs-coasters.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/groups/crayxt-pbs-coasters.sh
+END
+group-stress.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/groups/group-stress.sh
+END
+providers-fusion.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/5035/branches/release-0.93/tests/groups/providers-fusion.sh
+END
+group-mpi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/groups/group-mpi.sh
+END
+group-pads.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/5136/branches/release-0.93/tests/groups/group-pads.sh
+END
+mcs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4979/branches/release-0.93/tests/groups/mcs.sh
+END
+group-queenbee.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5135/branches/release-0.93/tests/groups/group-queenbee.sh
+END
+group-local.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5164/branches/release-0.93/tests/groups/group-local.sh
+END
+group-surveyor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5135/branches/release-0.93/tests/groups/group-surveyor.sh
+END
+group-all-local.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/5105/branches/release-0.93/tests/groups/group-all-local.sh
+END
+group-pc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/groups/group-pc.sh
+END
+group-fusion.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5135/branches/release-0.93/tests/groups/group-fusion.sh
+END
+group-cdm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/groups/group-cdm.sh
+END
+group-functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/groups/group-functions.sh
+END
+providers-pads.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5021/branches/release-0.93/tests/groups/providers-pads.sh
+END
+group-documentation.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/groups/group-documentation.sh
+END
+group-crow.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/5135/branches/release-0.93/tests/groups/group-crow.sh
+END
+group-local-coasters.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/5164/branches/release-0.93/tests/groups/group-local-coasters.sh
+END

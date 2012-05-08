@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic
+END
+034-or.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/034-or.swift
+END
+033-and.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/033-and.swift
+END
+034-or.tt.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/034-or.tt.out.expected
+END
+035-not.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/035-not.swift
+END
+033-and.tt.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/033-and.tt.out.expected
+END
+034-or.ft.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/034-or.ft.out.expected
+END
+034-or.tf.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/034-or.tf.out.expected
+END
+033-and.ft.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/033-and.ft.out.expected
+END
+033-and.tf.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/033-and.tf.out.expected
+END
+034-or.ff.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/034-or.ff.out.expected
+END
+033-and.ff.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/logic/033-and.ff.out.expected
+END

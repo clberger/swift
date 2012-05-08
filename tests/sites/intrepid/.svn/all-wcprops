@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid/title.txt
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid/sites.template.xml
+END
+100-cp.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid/100-cp.check.sh
+END
+100-cp.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid/100-cp.timeout
+END
+100-cp.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid/100-cp.setup.sh
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid/tc.template.data
+END
+100-cp.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid/100-cp.clean.sh
+END
+100-cp.swift
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/intrepid/100-cp.swift
+END

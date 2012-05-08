@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vdl2/!svn/ver/5482/branches/release-0.93/etc
+END
+MANIFEST.MF.tail
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/MANIFEST.MF.tail
+END
+coaster-service.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/5482/branches/release-0.93/etc/coaster-service.conf
+END
+karajan.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/karajan.properties
+END
+error.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/error.properties
+END
+sites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/sites.xml
+END
+MANIFEST.MF.head
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/MANIFEST.MF.head
+END
+swift.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/swift.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/log4j.properties
+END
+tc.data
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/etc/tc.data
+END

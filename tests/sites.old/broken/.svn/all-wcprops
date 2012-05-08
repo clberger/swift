@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/broken
+END
+osg-ucsdt2-fork.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/broken/osg-ucsdt2-fork.xml
+END
+osg-ucsdt2-b2-fork.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/broken/osg-ucsdt2-b2-fork.xml
+END
+osg-ucsdt2-condor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/broken/osg-ucsdt2-condor.xml
+END
+osg-ucsdt2-b2-condor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/broken/osg-ucsdt2-b2-condor.xml
+END
+tp-pbs-gram4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/broken/tp-pbs-gram4.xml
+END

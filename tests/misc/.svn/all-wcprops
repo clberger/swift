@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc
+END
+restart2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart2.sh
+END
+workernode-local.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/workernode-local.sh
+END
+external-mapper-args.mapper
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/external-mapper-args.mapper
+END
+restart4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart4.sh
+END
+path-prefix.swift
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/path-prefix.swift
+END
+wonky-replication.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky-replication.sh
+END
+restart-iterate.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart-iterate.sh
+END
+typecheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/typecheck.sh
+END
+wonky80.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky80.sh
+END
+external-mapper-args.args.expected
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/external-mapper-args.args.expected
+END
+dryrun.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/dryrun.sh
+END
+asserts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/asserts.sh
+END
+restart5-helper-fail
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart5-helper-fail
+END
+wonky-runawayjob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky-runawayjob.sh
+END
+restart-extern.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart-extern.sh
+END
+no-retries.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/no-retries.sh
+END
+wonky-slow-queue-fast-queue.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky-slow-queue-fast-queue.sh
+END
+path-prefix-helper
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/path-prefix-helper
+END
+arg-mode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/arg-mode.sh
+END
+restart-external.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart-external.in
+END
+coaster.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/coaster.sh
+END
+wonky-wrongdir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky-wrongdir.sh
+END
+restart-iterate.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart-iterate.swift
+END
+restart.swift
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart.swift
+END
+extract-int-delayed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/extract-int-delayed.sh
+END
+restart3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart3.sh
+END
+wonky.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky.sh
+END
+restart-extern.swift
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart-extern.swift
+END
+arg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/arg.sh
+END
+restart5.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart5.sh
+END
+arg-nodefault.swift
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/arg-nodefault.swift
+END
+ordering-extern-notlazy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/ordering-extern-notlazy.sh
+END
+wonky-relative-absolute-wrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky-relative-absolute-wrapper.sh
+END
+ordering-extern.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/ordering-extern.sh
+END
+path-prefix-helper2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/path-prefix-helper2
+END
+arg-default.swift
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/arg-default.swift
+END
+restart.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart.in
+END
+external-mapper-args.swift
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/external-mapper-args.swift
+END
+wonky-wrongdir-relative-fail.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky-wrongdir-relative-fail.sh
+END
+restart5-helper-success
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart5-helper-success
+END
+restart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart.sh
+END
+path-prefix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/path-prefix.sh
+END
+restart2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart2.swift
+END
+wonky-failfirst.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky-failfirst.sh
+END
+relative-wrapper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/relative-wrapper.sh
+END
+extract-int-delayed.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/extract-int-delayed.swift
+END
+restart3.swift
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart3.swift
+END
+restart4.swift
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart4.swift
+END
+restart5.swift
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart5.swift
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/run
+END
+restart-helper-success
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart-helper-success
+END
+external-mapper-args.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/external-mapper-args.sh
+END
+run-wonky
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/run-wonky
+END
+restart-helper-fail
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/restart-helper-fail
+END
+wonky-clusters-wrongdir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/wonky-clusters-wrongdir.sh
+END
+clusters.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/clusters.sh
+END
+extract-int-delayed-slowint.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/misc/extract-int-delayed-slowint.sh
+END

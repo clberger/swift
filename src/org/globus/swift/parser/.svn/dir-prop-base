@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 118
+.ignore
+SwiftScriptLexer.java
+SwiftScriptParserTokenTypes.txt
+SwiftScriptParserTokenTypes.java
+SwiftScriptParser.java
+
+END

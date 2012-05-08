@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items
+END
+TaskItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/TaskItem.java
+END
+ApplicationItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/ApplicationItem.java
+END
+StatefulItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/StatefulItem.java
+END
+WorkflowItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/WorkflowItem.java
+END
+AbstractStatefulItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/AbstractStatefulItem.java
+END
+Bridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/Bridge.java
+END
+HostItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/HostItem.java
+END
+StatefulItemClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/StatefulItemClass.java
+END
+TraceItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/items/TraceItem.java
+END

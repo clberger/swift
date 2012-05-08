@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/title.txt
+END
+100-mci.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/100-mci.clean.sh
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/sites.template.xml
+END
+100-mci.swift
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/100-mci.swift
+END
+100-mpi-cp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/100-mpi-cp.c
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/tc.template.data
+END
+100-input.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/100-input.txt
+END
+100-mci.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/100-mci.check.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/README.txt
+END
+100-mci.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/mpi/100-mci.setup.sh
+END

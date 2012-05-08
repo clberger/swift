@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors
+END
+MonitorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/MonitorFactory.java
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/Monitor.java
+END
+AbstractMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/AbstractMonitor.java
+END
+TextMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/monitor/monitors/TextMonitor.java
+END

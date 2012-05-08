@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/catalog/util
+END
+Escape.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/catalog/util/Escape.java
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/catalog/util/Profile.java
+END
+Separator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/catalog/util/Separator.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/catalog/util/Data.java
+END
+ProfileParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/catalog/util/ProfileParserException.java
+END
+ProfileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/globus/swift/catalog/util/ProfileParser.java
+END

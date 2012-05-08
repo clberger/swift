@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vdl2/!svn/ver/5473/branches/release-0.93/tests/sites/local
+END
+001-catsn-local.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/001-catsn-local.timeout
+END
+001-catsn-local.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/001-catsn-local.check.sh
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/data.txt
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/5473/branches/release-0.93/tests/sites/local/tc.template.data
+END
+001-catsn-local.swift
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/001-catsn-local.swift
+END
+catsn.0010.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0010.out.expected
+END
+catsn.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0001.out.expected
+END
+catsn.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0002.out.expected
+END
+catsn.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0003.out.expected
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/title.txt
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/5473/branches/release-0.93/tests/sites/local/sites.template.xml
+END
+catsn.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0004.out.expected
+END
+catsn.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0005.out.expected
+END
+catsn.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0006.out.expected
+END
+catsn.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0007.out.expected
+END
+catsn.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0008.out.expected
+END
+catsn.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/catsn.0009.out.expected
+END
+001-catsn-local.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/local/001-catsn-local.setup.sh
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/log-processing
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/log-processing/run
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/log-processing/README
+END

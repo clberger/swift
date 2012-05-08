@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib
+END
+antlr-2.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/antlr-2.7.5.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/jaxrpc.jar
+END
+README.jaxrpc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/README.jaxrpc
+END
+jug-lgpl-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/jug-lgpl-2.0.0.jar
+END
+xbean.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/xbean.jar
+END
+jline-0.9.94.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/jline-0.9.94.jar
+END
+jsr173_1.0_api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/jsr173_1.0_api.jar
+END
+resolver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/resolver.jar
+END
+xbean_xpath.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/xbean_xpath.jar
+END
+stringtemplate.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/lib/stringtemplate.jar
+END

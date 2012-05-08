@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vdl2/!svn/ver/5308/branches/release-0.93/tests/cdm/absolute
+END
+catnap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/catnap.sh
+END
+fs.data
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/5306/branches/release-0.93/tests/cdm/absolute/fs.data
+END
+200-infullpath-outrelpath.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/200-infullpath-outrelpath.swift
+END
+ff.swift
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5291/branches/release-0.93/tests/cdm/absolute/ff.swift
+END
+sites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5292/branches/release-0.93/tests/cdm/absolute/sites.xml
+END
+100-infullpath-outfullpath.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/100-infullpath-outfullpath.check.sh
+END
+out1.data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/out1.data
+END
+400-inrelpath-outrelpath.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/400-inrelpath-outrelpath.check.sh
+END
+rf.swift
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5291/branches/release-0.93/tests/cdm/absolute/rf.swift
+END
+out3.data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/out3.data
+END
+fr.swift
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5291/branches/release-0.93/tests/cdm/absolute/fr.swift
+END
+cf.relative
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/cf.relative
+END
+100-infullpath-outfullpath.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/100-infullpath-outfullpath.swift
+END
+cf.absolute
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/cf.absolute
+END
+tc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/tc
+END
+data1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/data1.txt
+END
+data2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/data2.txt
+END
+data3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/data3.txt
+END
+data4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/data4.txt
+END
+ff.kml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5293/branches/release-0.93/tests/cdm/absolute/ff.kml
+END
+rr.swift
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5291/branches/release-0.93/tests/cdm/absolute/rr.swift
+END
+200-infullpath-outrelpath.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/200-infullpath-outrelpath.check.sh
+END
+300-inrelpath-outfullpath.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/300-inrelpath-outfullpath.check.sh
+END
+300-inrelpath-outfullpath.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/300-inrelpath-outfullpath.swift
+END
+rf.kml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5293/branches/release-0.93/tests/cdm/absolute/rf.kml
+END
+fr.kml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5293/branches/release-0.93/tests/cdm/absolute/fr.kml
+END
+set-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/set-env.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5308/branches/release-0.93/tests/cdm/absolute/clean.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/README
+END
+out2.data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/out2.data
+END
+out4.data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/out4.data
+END
+rr.kml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5293/branches/release-0.93/tests/cdm/absolute/rr.kml
+END
+400-inrelpath-outrelpath.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/400-inrelpath-outrelpath.swift
+END
+setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5307/branches/release-0.93/tests/cdm/absolute/setup.sh
+END
+basic.swift
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5289/branches/release-0.93/tests/cdm/absolute/basic.swift
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5293/branches/release-0.93/tests/cdm/absolute/run.sh
+END

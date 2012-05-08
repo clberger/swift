@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings
+END
+005-strcut.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/005-strcut.clean.sh
+END
+005-strcut.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/005-strcut.swift
+END
+0031-strcat-op.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0031-strcat-op.check.sh
+END
+103-quote.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/103-quote.check.sh
+END
+1421-space-and-quotes.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1421-space-and-quotes.check.sh
+END
+143-newlines.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/143-newlines.swift
+END
+761-dirname.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/761-dirname.clean.sh
+END
+003-strcat.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/003-strcat.check.sh
+END
+761-dirname.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/761-dirname.swift
+END
+161-star-dot.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/161-star-dot.check.sh
+END
+0031-strcat-op.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0031-strcat-op.swift
+END
+0054-strsplit.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0054-strsplit.check.sh
+END
+004-strcat-in-arg.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/004-strcat-in-arg.check.sh
+END
+145-url.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/145-url.clean.sh
+END
+1031-quote.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1031-quote.check.sh
+END
+141-space-in-filename.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/141-space-in-filename.check.sh
+END
+1032-singlequote.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1032-singlequote.check.sh
+END
+0053-toint.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0053-toint.check.sh
+END
+0051-regexp.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0051-regexp.clean.sh
+END
+142-space-and-quotes.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/142-space-and-quotes.clean.sh
+END
+0052-regexp.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0052-regexp.clean.sh
+END
+0052-regexp.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0052-regexp.swift
+END
+1031-quote.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1031-quote.swift
+END
+005-strcut.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/005-strcut.check.sh
+END
+1033-singlequote.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1033-singlequote.clean.sh
+END
+143-newlines.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/143-newlines.clean.sh
+END
+0031-strcat-op.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0031-strcat-op.clean.sh
+END
+103-quote.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/103-quote.clean.sh
+END
+1421-space-and-quotes.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1421-space-and-quotes.clean.sh
+END
+103-quote.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/103-quote.swift
+END
+1421-space-and-quotes.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1421-space-and-quotes.swift
+END
+003-strcat.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/003-strcat.clean.sh
+END
+003-strcat.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/003-strcat.swift
+END
+161-star-dot.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/161-star-dot.clean.sh
+END
+161-star-dot.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/161-star-dot.swift
+END
+145-url.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/145-url.check.sh
+END
+0051-regexp.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0051-regexp.check.sh
+END
+142-space-and-quotes.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/142-space-and-quotes.check.sh
+END
+0052-regexp.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0052-regexp.check.sh
+END
+0054-strsplit.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0054-strsplit.clean.sh
+END
+145-url.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/145-url.swift
+END
+0054-strsplit.swift
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0054-strsplit.swift
+END
+004-strcat-in-arg.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/004-strcat-in-arg.clean.sh
+END
+004-strcat-in-arg.swift
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/004-strcat-in-arg.swift
+END
+0051-regexp.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0051-regexp.swift
+END
+1033-singlequote.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1033-singlequote.check.sh
+END
+142-space-and-quotes.swift
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/142-space-and-quotes.swift
+END
+1031-quote.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1031-quote.clean.sh
+END
+141-space-in-filename.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/141-space-in-filename.clean.sh
+END
+141-space-in-filename.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/141-space-in-filename.swift
+END
+1032-singlequote.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1032-singlequote.clean.sh
+END
+0053-toint.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0053-toint.clean.sh
+END
+0053-toint.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/0053-toint.swift
+END
+1032-singlequote.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1032-singlequote.swift
+END
+1033-singlequote.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/1033-singlequote.swift
+END
+143-newlines.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/strings/143-newlines.check.sh
+END

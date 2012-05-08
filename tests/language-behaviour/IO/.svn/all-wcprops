@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/language-behaviour/IO
+END
+130-fmri.v.template.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.v.template.in
+END
+q7.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q7.swift
+END
+060-duplicate.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/060-duplicate.in
+END
+060-duplicate.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/060-duplicate.setup.sh
+END
+130-fmri.0002.v.input.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0002.v.input.in
+END
+readData2.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData2.in
+END
+q21.swift
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q21.swift
+END
+q23.swift
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q23.swift
+END
+062-two-in-a-row.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/062-two-in-a-row.swift
+END
+readData.int.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.int.out.expected
+END
+0012-echo-map.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0012-echo-map.swift
+END
+testimport.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/testimport.swift
+END
+writeDataStringArray.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataStringArray.swift
+END
+001-echo.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/001-echo.swift
+END
+130-fmri.0003.h.input.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0003.h.input.in
+END
+writeDataPrimitive.swift
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataPrimitive.swift
+END
+106-import.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/106-import.swift
+END
+readData.circle.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.circle.in
+END
+q22.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q22.setup.sh
+END
+061-cattwo.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/061-cattwo.setup.sh
+END
+readData.stringArray.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.stringArray.out.expected
+END
+readData.float.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.float.out.expected
+END
+0012-echo-map.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0012-echo-map.out.expected
+END
+readData2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData2.swift
+END
+testimport.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/language-behaviour/IO/testimport.setup.sh
+END
+writeDataPrimitive.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataPrimitive.out.expected
+END
+130-fmri.0001.v.input.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0001.v.input.in
+END
+tc.template.mix.data
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/tc.template.mix.data
+END
+writeDataStruct.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataStruct.swift
+END
+106-import.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/106-import.setup.sh
+END
+testimport2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/testimport2.swift
+END
+writeDataStringArray2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataStringArray2.swift
+END
+writeDataStruct.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataStruct.out.expected
+END
+readData.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.swift
+END
+q23.args
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q23.args
+END
+0021-param-bind.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0021-param-bind.out.expected
+END
+130-fmri.0000.jpeg.expected
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0000.jpeg.expected
+END
+130-fmri.0002.jpeg.expected
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0002.jpeg.expected
+END
+readData.intArray.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.intArray.out.expected
+END
+0011-echo.out
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0011-echo.out
+END
+130-fmri.0002.h.input.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0002.h.input.in
+END
+0013-out-of-order.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0013-out-of-order.out.expected
+END
+q2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q2.swift
+END
+readData.stringArray.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.stringArray.in
+END
+writeDataStructArray2.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataStructArray2.out.expected
+END
+q6.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q6.swift
+END
+001-echo.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/001-echo.out.expected
+END
+0021-param-bind.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0021-param-bind.swift
+END
+130-fmri.0004.v.input.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0004.v.input.in
+END
+0011-echo.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0011-echo.swift
+END
+130-fmri.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.swift
+END
+062-two-in-a-row.a.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/062-two-in-a-row.a.out.expected
+END
+q20.swift
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q20.swift
+END
+q22.swift
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q22.swift
+END
+readData.intArray.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.intArray.in
+END
+060-duplicate.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/060-duplicate.check.sh
+END
+writeDataStringArray2.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataStringArray2.out.expected
+END
+0011-echo.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0011-echo.out.expected
+END
+writeDataStructArray2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/writeDataStructArray2.swift
+END
+130-fmri.0001.h.input.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0001.h.input.in
+END
+060-duplicate.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/060-duplicate.swift
+END
+readData.circleArray.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.circleArray.in
+END
+087-external-dataset.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/087-external-dataset.swift
+END
+060-duplicate.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/060-duplicate.out.expected
+END
+130-fmri.0003.v.input.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0003.v.input.in
+END
+062-two-in-a-row.b.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/062-two-in-a-row.b.out.expected
+END
+readData2.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData2.out.expected
+END
+0013-out-of-order.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/0013-out-of-order.swift
+END
+061-cattwo.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/061-cattwo.swift
+END
+130-fmri.0001.jpeg.expected
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0001.jpeg.expected
+END
+readData.int.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.int.in
+END
+130-fmri.h.template.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.h.template.in
+END
+testimport2.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/language-behaviour/IO/testimport2.setup.sh
+END
+060-duplicate.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/060-duplicate.clean.sh
+END
+130-fmri.0004.h.input.in
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/130-fmri.0004.h.input.in
+END
+readData.circleArray.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.circleArray.out.expected
+END
+readData.circle.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/readData.circle.out.expected
+END
+q3.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/IO/q3.swift
+END

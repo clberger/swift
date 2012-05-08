@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/data.txt
+END
+001-catsn-surveyor.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/001-catsn-surveyor.timeout
+END
+001-catsn-surveyor.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/001-catsn-surveyor.check.sh
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/tc.template.data
+END
+catsn.0010.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0010.out.expected
+END
+catsn.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0001.out.expected
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/README
+END
+001-catsn-surveyor.swift
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/001-catsn-surveyor.swift
+END
+catsn.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0002.out.expected
+END
+catsn.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0003.out.expected
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/title.txt
+END
+catsn.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0004.out.expected
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/sites.template.xml
+END
+catsn.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0005.out.expected
+END
+catsn.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0006.out.expected
+END
+catsn.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0007.out.expected
+END
+catsn.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0008.out.expected
+END
+catsn.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/catsn.0009.out.expected
+END
+001-catsn-surveyor.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/surveyor/001-catsn-surveyor.setup.sh
+END

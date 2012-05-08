@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/data.txt
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/tc.template.data
+END
+catsn.0010.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0010.out.expected
+END
+catsn.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0001.out.expected
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/README
+END
+catsn.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0002.out.expected
+END
+catsn.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0003.out.expected
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/title.txt
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/sites.template.xml
+END
+catsn.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0004.out.expected
+END
+catsn.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0005.out.expected
+END
+catsn.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0006.out.expected
+END
+catsn.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0007.out.expected
+END
+catsn.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0008.out.expected
+END
+001-catsn-queenbee-pbs.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/001-catsn-queenbee-pbs.timeout
+END
+001-catsn-queenbee-pbs.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/001-catsn-queenbee-pbs.check.sh
+END
+catsn.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/catsn.0009.out.expected
+END
+001-catsn-queenbee-pbs.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/queenbee/pbs/001-catsn-queenbee-pbs.swift
+END

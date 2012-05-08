@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/ranger/gt2
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/ranger/gt2/sites.template.xml
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/ranger/gt2/data.txt
+END
+start_proxy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/ranger/gt2/start_proxy.sh
+END
+cf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/ranger/gt2/cf
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/ranger/gt2/tc.template.data
+END
+001-catsn-ranger.swift
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/ranger/gt2/001-catsn-ranger.swift
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/language-behaviour
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/title.txt
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/run
+END
+generate-tc.data
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/generate-tc.data
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/tc.template.data
+END
+generate-odd-files
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/generate-odd-files
+END

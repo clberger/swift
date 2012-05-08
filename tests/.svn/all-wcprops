@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/vdl2/!svn/ver/5681/branches/release-0.93/tests
+END
+meta.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/meta.sh
+END
+array_index.swift
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/array_index.swift
+END
+suite.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vdl2/!svn/ver/5473/branches/release-0.93/tests/suite.sh
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/run
+END
+run-suite.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/run-suite.sh
+END
+sitetester
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/sitetester
+END
+USAGENOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/vdl2/!svn/ver/5283/branches/release-0.93/tests/USAGENOTES.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/README.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/README
+END
+providers
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vdl2/!svn/ver/5473/branches/release-0.93/tests/providers
+END
+addtests.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/addtests.html
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4949/branches/release-0.93/tests/language-behaviour/procedures
+END
+0651-several-delay.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/0651-several-delay.swift
+END
+00262-function-param-file-many.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/00262-function-param-file-many.setup.sh
+END
+080-declare-assign-proc.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/080-declare-assign-proc.swift
+END
+081-declare-assign-proc.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/081-declare-assign-proc.swift
+END
+tc.template.mix.data
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4949/branches/release-0.93/tests/language-behaviour/procedures/tc.template.mix.data
+END
+082-declare-assign-proc-separate.swift
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/082-declare-assign-proc-separate.swift
+END
+00261-function-param-file.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/00261-function-param-file.clean.sh
+END
+065-delay.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/065-delay.swift
+END
+00261-function-param-file.swift
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/00261-function-param-file.swift
+END
+00262-function-param-file-many.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/00262-function-param-file-many.clean.sh
+END
+0026-function-param.swift
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/0026-function-param.swift
+END
+00262-function-param-file-many.swift
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/00262-function-param-file-many.swift
+END
+089-nested-proc-call.swift
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/089-nested-proc-call.swift
+END
+delayedcat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/delayedcat.sh
+END
+00261-function-param-file.in
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/00261-function-param-file.in
+END
+00262-function-param-file-many.in
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/00262-function-param-file-many.in
+END
+00261-function-param-file.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/00261-function-param-file.setup.sh
+END
+proc-in-expr.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/procedures/proc-in-expr.swift
+END

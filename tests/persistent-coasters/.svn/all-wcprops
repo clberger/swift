@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/persistent-coasters
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/persistent-coasters/title.txt
+END
+000-sanity.test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/persistent-coasters/000-sanity.test.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/persistent-coasters/README.txt
+END

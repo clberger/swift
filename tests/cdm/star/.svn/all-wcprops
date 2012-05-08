@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/star
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/star/title.txt
+END
+202-direct-star.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/star/202-direct-star.check.sh
+END
+202-direct-star.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/star/202-direct-star.setup.sh
+END
+fs.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/star/fs.template.data
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/star/README.txt
+END
+202-direct-star.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/star/202-direct-star.clean.sh
+END
+202-direct-star.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/cdm/star/202-direct-star.swift
+END

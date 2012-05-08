@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/vdl2/!svn/ver/5450/branches/release-0.93/src/org/griphyn/vdl/karajan
+END
+ScalabilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/ScalabilityTest.java
+END
+FuturePairIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/FuturePairIterator.java
+END
+VDL2ExecutionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/VDL2ExecutionContext.java
+END
+HangChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4960/branches/release-0.93/src/org/griphyn/vdl/karajan/HangChecker.java
+END
+VDSTaskTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/VDSTaskTransformer.java
+END
+PairIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/PairIterator.java
+END
+Loader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4961/branches/release-0.93/src/org/griphyn/vdl/karajan/Loader.java
+END
+VDSAdaptiveScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/VDSAdaptiveScheduler.java
+END
+FutureWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/FutureWrapper.java
+END
+DSHandleFutureWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/5013/branches/release-0.93/src/org/griphyn/vdl/karajan/DSHandleFutureWrapper.java
+END
+VDL2FutureException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/VDL2FutureException.java
+END
+Mergeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/Mergeable.java
+END
+AssertFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/AssertFailedException.java
+END
+WaitingThreadsMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/WaitingThreadsMonitor.java
+END
+FutureTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5450/branches/release-0.93/src/org/griphyn/vdl/karajan/FutureTracker.java
+END
+Monitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/5450/branches/release-0.93/src/org/griphyn/vdl/karajan/Monitor.java
+END
+InHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/InHook.java
+END
+TCCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/TCCache.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/Pair.java
+END
+VDL2ErrorTranslator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/VDL2ErrorTranslator.java
+END
+CompilationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/src/org/griphyn/vdl/karajan/CompilationException.java
+END
+ArrayIndexFutureList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/5422/branches/release-0.93/src/org/griphyn/vdl/karajan/ArrayIndexFutureList.java
+END

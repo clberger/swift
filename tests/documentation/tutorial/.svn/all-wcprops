@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial
+END
+arrays.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/arrays.txt.expected
+END
+capitalise_anonymous.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/capitalise_anonymous.clean.sh
+END
+manyparam.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/manyparam.swift
+END
+capitalise_anonymous.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/capitalise_anonymous.swift
+END
+types.pies.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/types.pies.txt.expected
+END
+swift.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/swift.properties
+END
+fixed_array_mapper.2.count.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/fixed_array_mapper.2.count.expected
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/tc.template.data
+END
+fixed_array_mapper.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/fixed_array_mapper.clean.sh
+END
+arrays.swift
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/arrays.swift
+END
+capitalise.2.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/capitalise.2.txt.expected
+END
+hello.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/hello.clean.sh
+END
+foreach.2.count.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/foreach.2.count.expected
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/title.txt
+END
+foreach.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/foreach.clean.sh
+END
+default.2.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/default.2.txt.expected
+END
+hello2.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/hello2.txt.expected
+END
+capitalise_anonymous.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/capitalise_anonymous.txt.expected
+END
+sequential_iteration.foldout0001.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/sequential_iteration.foldout0001.expected
+END
+sequential_iteration.foldout0003.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/sequential_iteration.foldout0003.expected
+END
+manyparam.french.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/manyparam.french.txt.expected
+END
+capitalise.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/capitalise.clean.sh
+END
+fixed_array_mapper.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/fixed_array_mapper.setup.sh
+END
+capitalise.swift
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/capitalise.swift
+END
+default.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/default.clean.sh
+END
+foreach.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/foreach.setup.sh
+END
+default.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/default.swift
+END
+manyparam.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/manyparam.clean.sh
+END
+hello.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/hello.txt.expected
+END
+regexp_mapper.words.count.expected
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/regexp_mapper.words.count.expected
+END
+sequential_iteration.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/sequential_iteration.clean.sh
+END
+sequential_iteration.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/sequential_iteration.swift
+END
+fixed_array_mapper.1.count.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/fixed_array_mapper.1.count.expected
+END
+if.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/if.clean.sh
+END
+manyparam.japanese.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/manyparam.japanese.txt.expected
+END
+regexp_mapper.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/regexp_mapper.clean.sh
+END
+if.swift
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/if.swift
+END
+fixed_array_mapper.3.count.expected
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/fixed_array_mapper.3.count.expected
+END
+regexp_mapper.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/regexp_mapper.swift
+END
+arrays.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/arrays.clean.sh
+END
+capitalise.1.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/capitalise.1.txt.expected
+END
+manyparam.english.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/manyparam.english.txt.expected
+END
+fixed_array_mapper.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/fixed_array_mapper.swift
+END
+foreach.1.count.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/foreach.1.count.expected
+END
+hello.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/hello.swift
+END
+types.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/types.clean.sh
+END
+foreach.3.count.expected
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/foreach.3.count.expected
+END
+types.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/types.swift
+END
+parameter.hello.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/parameter.hello.txt.expected
+END
+sequential_iteration.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/sequential_iteration.setup.sh
+END
+default.1.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/default.1.txt.expected
+END
+foreach.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/foreach.swift
+END
+sequential_iteration.foldout0000.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/sequential_iteration.foldout0000.expected
+END
+sequential_iteration.foldout0002.expected
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/sequential_iteration.foldout0002.expected
+END
+regexp_mapper.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/regexp_mapper.setup.sh
+END
+parameter.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/parameter.clean.sh
+END
+parameter.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/parameter.swift
+END
+if.txt.expected
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4830/branches/release-0.93/tests/documentation/tutorial/if.txt.expected
+END

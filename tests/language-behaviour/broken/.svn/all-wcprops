@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/broken
+END
+111-array-range-exprs.swift
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/broken/111-array-range-exprs.swift
+END
+112-array-range.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/broken/112-array-range.swift
+END
+0753-filesystem-mapper.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/broken/0753-filesystem-mapper.setup.sh
+END
+0753-filesystem-mapper.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/broken/0753-filesystem-mapper.swift
+END

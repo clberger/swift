@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working
+END
+1233-global-deep-declaration.swift
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/1233-global-deep-declaration.swift
+END
+114-keyword-abuse.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/114-keyword-abuse.swift
+END
+arithmetic_op_type_check.swift
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/arithmetic_op_type_check.swift
+END
+050-splat.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/050-splat.swift
+END
+103-many-statements-without-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/103-many-statements-without-semi.swift
+END
+var_type_not_defined.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/var_type_not_defined.swift
+END
+case-broken.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/case-broken.swift
+END
+119-many-nested-statements-missing-close.swift
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/119-many-nested-statements-missing-close.swift
+END
+if_type_check.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/if_type_check.swift
+END
+1131-assign-with-missing-close-paren.swift
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/1131-assign-with-missing-close-paren.swift
+END
+functioncall-wrong-assign.swift
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/functioncall-wrong-assign.swift
+END
+case4.swift
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/case4.swift
+END
+120-many-nested-statements-missing-semi-qff0bjqrhyo51.log
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/120-many-nested-statements-missing-semi-qff0bjqrhyo51.log
+END
+101-default-and-assign.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/101-default-and-assign.swift
+END
+assignment_type_check.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/assignment_type_check.swift
+END
+dupedecl2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/dupedecl2.swift
+END
+120-many-nested-statements-missing-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/120-many-nested-statements-missing-semi.swift
+END
+function_arg_type_check.swift
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/function_arg_type_check.swift
+END
+1231-global-assign-inside.swift
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/1231-global-assign-inside.swift
+END
+procedure_arg_type_check_01.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/procedure_arg_type_check_01.swift
+END
+procedure_arg_type_check_02.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/procedure_arg_type_check_02.swift
+END
+120-many-nested-statements-missing-semi-nbnulpy9eqno0.log
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/120-many-nested-statements-missing-semi-nbnulpy9eqno0.log
+END
+procedure_arg_type_check_03.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/procedure_arg_type_check_03.swift
+END
+113-assign-without-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/113-assign-without-semi.swift
+END
+procedure_arg_type_check_04.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/procedure_arg_type_check_04.swift
+END
+procedure_arg_type_check_05.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/procedure_arg_type_check_05.swift
+END
+procedure_arg_type_check_06.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/procedure_arg_type_check_06.swift
+END
+dupedecl.swift
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/dupedecl.swift
+END
+108-bad-numeric-literal.swift
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/108-bad-numeric-literal.swift
+END
+syntax-removed-at-r386.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/syntax-removed-at-r386.swift
+END
+bug56.swift
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/bug56.swift
+END
+functioncall-wrong-assign-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/functioncall-wrong-assign-semi.swift
+END
+double-functioncall.swift
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/double-functioncall.swift
+END
+proc_arg_type_not_defined.swift
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/proc_arg_type_not_defined.swift
+END
+assign-undecl.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/assign-undecl.swift
+END
+dataset-type-not-defined.swift
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/dataset-type-not-defined.swift
+END
+121-fmri.swift
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/121-fmri.swift
+END
+105-namespace-missing-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/105-namespace-missing-semi.swift
+END
+071-procedure-with-bad-lines.swift
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/071-procedure-with-bad-lines.swift
+END
+115-namespace-missing-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/115-namespace-missing-semi.swift
+END
+106-namespace-bound-missing-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/106-namespace-bound-missing-semi.swift
+END
+107-bad-array.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/107-bad-array.swift
+END
+function_arg_type_check_01.swift
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/function_arg_type_check_01.swift
+END
+function_arg_type_check_02.swift
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/function_arg_type_check_02.swift
+END
+070-procedure-with-bad-line.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/070-procedure-with-bad-line.swift
+END
+110-bad-numeric-literal.swift
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/110-bad-numeric-literal.swift
+END
+111-bad-numeric-literal.swift
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/111-bad-numeric-literal.swift
+END
+bug106-duplicate-assignment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/bug106-duplicate-assignment.swift
+END
+struct_type_check.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/struct_type_check.swift
+END
+102-statements-without-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/not-working/102-statements-without-semi.swift
+END

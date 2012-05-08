@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays
+END
+111-array-individual-assigns.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/111-array-individual-assigns.out.expected
+END
+027-array-assignment.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/027-array-assignment.check.sh
+END
+028-array-assignment.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/028-array-assignment.check.sh
+END
+q5.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/q5.swift
+END
+022-array-with-exprs.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/022-array-with-exprs.clean.sh
+END
+1101-array-range.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/1101-array-range.swift
+END
+028-array-assignment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/028-array-assignment.swift
+END
+162-dot-on-array.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/162-dot-on-array.out.expected
+END
+025-array-passing.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/025-array-passing.out.expected
+END
+029-array-assignment-sequence.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/029-array-assignment-sequence.clean.sh
+END
+array_multidimensional_index.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/array_multidimensional_index.clean.sh
+END
+029-array-assignment-sequence.swift
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/029-array-assignment-sequence.swift
+END
+array_multidimensional_index.swift
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/array_multidimensional_index.swift
+END
+027-array-assignment.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/027-array-assignment.out.expected
+END
+110-array-range-exprs.swift
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/110-array-range-exprs.swift
+END
+020-array.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/020-array.check.sh
+END
+111-array-individual-assigns.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/111-array-individual-assigns.clean.sh
+END
+083-array-assign.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/083-array-assign.swift
+END
+array_multidimensional-2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/array_multidimensional-2.swift
+END
+021-array-in-proc-param.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/021-array-in-proc-param.check.sh
+END
+020-array.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/020-array.swift
+END
+array_multidimensional_assign.swift
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/array_multidimensional_assign.swift
+END
+021-array-in-proc-param.swift
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/021-array-in-proc-param.swift
+END
+022-array-with-exprs.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/022-array-with-exprs.check.sh
+END
+162-dot-on-array.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/162-dot-on-array.clean.sh
+END
+162-dot-on-array.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/162-dot-on-array.swift
+END
+025-array-passing.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/025-array-passing.clean.sh
+END
+025-array-passing.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/025-array-passing.swift
+END
+q5.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/q5.clean.sh
+END
+022-array-with-exprs.swift
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/022-array-with-exprs.swift
+END
+020-array.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/020-array.out.expected
+END
+027-array-assignment.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/027-array-assignment.clean.sh
+END
+028-array-assignment.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/028-array-assignment.clean.sh
+END
+027-array-assignment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/027-array-assignment.swift
+END
+021-array-in-proc-param.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/021-array-in-proc-param.out.expected
+END
+1102-array-range-step.swift
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/1102-array-range-step.swift
+END
+111-array-individual-assigns.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/111-array-individual-assigns.check.sh
+END
+111-array-individual-assigns.swift
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/111-array-individual-assigns.swift
+END
+020-array.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/020-array.clean.sh
+END
+162-dot-on-array.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/162-dot-on-array.check.sh
+END
+array_multidimensional_index.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/array_multidimensional_index.out.expected
+END
+025-array-passing.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/025-array-passing.check.sh
+END
+q5.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/q5.check.sh
+END
+021-array-in-proc-param.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language-behaviour/arrays/021-array-in-proc-param.clean.sh
+END

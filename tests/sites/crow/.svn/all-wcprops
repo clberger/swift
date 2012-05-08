@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/title.txt
+END
+001-catsn.clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/001-catsn.clean.sh
+END
+sites.template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/sites.template.xml
+END
+001-catsn.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/001-catsn.swift
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/data.txt
+END
+tc.template.data
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/tc.template.data
+END
+001-catsn.check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/001-catsn.check.sh
+END
+001-catsn.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/001-catsn.timeout
+END
+001-catsn.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/5461/branches/release-0.93/tests/sites/crow/001-catsn.setup.sh
+END

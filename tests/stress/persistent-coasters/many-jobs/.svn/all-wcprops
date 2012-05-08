@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs
+END
+catsn.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.setup.sh
+END
+coaster-service.conf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/coaster-service.conf
+END
+data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/data.txt
+END
+catsn.repeat
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.repeat
+END
+catsn.timeout
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.timeout
+END
+catsn.0001.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0001.out.expected
+END
+catsn.0002.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0002.out.expected
+END
+catsn.0003.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0003.out.expected
+END
+catsn.0004.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0004.out.expected
+END
+catsn.0005.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0005.out.expected
+END
+catsn.0006.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0006.out.expected
+END
+catsn.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.swift
+END
+catsn.0007.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0007.out.expected
+END
+catsn.0008.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0008.out.expected
+END
+catsn.0009.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/stress/persistent-coasters/many-jobs/catsn.0009.out.expected
+END

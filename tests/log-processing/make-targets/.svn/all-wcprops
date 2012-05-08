@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/log-processing/make-targets
+END
+execute.global.event.first-r2522.expected
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/log-processing/make-targets/execute.global.event.first-r2522.expected
+END
+execute.event.first-r2522.expected
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/log-processing/make-targets/execute.event.first-r2522.expected
+END
+execute2.event.first-r2522.expected
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/log-processing/make-targets/execute2.event.first-r2522.expected
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/log-processing/make-targets/run
+END

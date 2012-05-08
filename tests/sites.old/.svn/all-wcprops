@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old
+END
+localhost.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/localhost.xml
+END
+tguc-pbs-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tguc-pbs-gram2.xml
+END
+tguc-pbs-gram4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tguc-pbs-gram4.xml
+END
+fletch-condor-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/fletch-condor-gram2.xml
+END
+tguc-pbs-gram2-syntax1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tguc-pbs-gram2-syntax1.xml
+END
+UCLA_Saxon_Tier3-fork.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/UCLA_Saxon_Tier3-fork.xml
+END
+tgncsa-hg-pbs-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgncsa-hg-pbs-gram2.xml
+END
+tgpurdue-fork-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgpurdue-fork-gram2.xml
+END
+pads-pbs-coasters.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/pads-pbs-coasters.sh
+END
+tgncsa-hg-pbs-gram4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgncsa-hg-pbs-gram4.xml
+END
+tgpurdue-fork-gram4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgpurdue-fork-gram4.xml
+END
+renci-engage-condor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/renci-engage-condor.xml
+END
+run-site
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/run-site
+END
+tgtacc-fork-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgtacc-fork-gram2.xml
+END
+tp-pbs-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tp-pbs-gram2.xml
+END
+tgncsa-hg-fork-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgncsa-hg-fork-gram2.xml
+END
+tgncsa-hg-fork-gram4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgncsa-hg-fork-gram4.xml
+END
+uj-fork-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/uj-fork-gram2.xml
+END
+osg-edu.cs.wisc.edu-fork.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/osg-edu.cs.wisc.edu-fork.xml
+END
+tgpurdue-condor-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgpurdue-condor-gram2.xml
+END
+tp-fork-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tp-fork-gram2.xml
+END
+tgpurdue-condor-gram4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgpurdue-condor-gram4.xml
+END
+tp-fork-gram4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tp-fork-gram4.xml
+END
+tgtacc-lsf-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tgtacc-lsf-gram2.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/README
+END
+uj-pbs-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/uj-pbs-gram2.xml
+END
+tguc-fork-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tguc-fork-gram2.xml
+END
+osg-edu.cs.wisc.edu-condor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/osg-edu.cs.wisc.edu-condor.xml
+END
+tguc-fork-gram4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tguc-fork-gram4.xml
+END
+fletch-fork-gram2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/fletch-fork-gram2.xml
+END
+run-all
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/run-all
+END
+tc.data
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/tc.data
+END
+local-wrapper-args-file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/5460/branches/release-0.93/tests/sites.old/local-wrapper-args-file.xml
+END

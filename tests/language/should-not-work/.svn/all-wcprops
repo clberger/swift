@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/title.txt
+END
+033-assign.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/033-assign.swift
+END
+closes.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/closes.swift
+END
+117-empty-program.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/117-empty-program.swift
+END
+1151-bad-comment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/1151-bad-comment.swift
+END
+case-broken2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/case-broken2.swift
+END
+119-missing-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/119-missing-semi.swift
+END
+201-hang.swift
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/201-hang.swift
+END
+118-keyword-misuse-stdout.swift
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/118-keyword-misuse-stdout.swift
+END
+116-keyword-misuse-in.swift
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/116-keyword-misuse-in.swift
+END
+0341-whitespace.swift
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/should-not-work/0341-whitespace.swift
+END

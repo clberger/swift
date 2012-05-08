@@ -1,0 +1,701 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/language/working
+END
+0063-two-functions-in-expr.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/0063-two-functions-in-expr.swift
+END
+q17.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q17.setup.sh
+END
+q5.swift
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q5.swift
+END
+061-stdoutinerr.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/061-stdoutinerr.swift
+END
+q7.swift
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q7.swift
+END
+test.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/test.in
+END
+00618-expr-with-func.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/00618-expr-with-func.swift
+END
+0061-assignment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/0061-assignment.swift
+END
+case1.swift
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/case1.swift
+END
+006-procedure-invocation-with-assign.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/006-procedure-invocation-with-assign.swift
+END
+035-typedef-empty-braces.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/035-typedef-empty-braces.swift
+END
+031-var-decl.swift
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/031-var-decl.swift
+END
+case3.swift
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/case3.swift
+END
+00617-one-param-func-expr.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/00617-one-param-func-expr.swift
+END
+0042-int-expr-assignment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/0042-int-expr-assignment.swift
+END
+030-typedef.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/030-typedef.swift
+END
+060-stdinouterr.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/language/working/060-stdinouterr.setup.sh
+END
+061-stdoutinerr.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/5180/branches/release-0.93/tests/language/working/061-stdoutinerr.setup.sh
+END
+q21.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q21.swift
+END
+procedurecall-assign-1.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/procedurecall-assign-1.swift
+END
+024-comment-multiline.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/024-comment-multiline.swift
+END
+q23.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q23.swift
+END
+022-app-procedure.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/022-app-procedure.swift
+END
+019-comment-script.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/019-comment-script.swift
+END
+diamond.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/diamond.swift
+END
+009-foreach.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/009-foreach.swift
+END
+0311-var-decl.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/0311-var-decl.swift
+END
+050-operators.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/050-operators.swift
+END
+q22.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q22.setup.sh
+END
+040-many-namespaces.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/040-many-namespaces.swift
+END
+016-mapper-noparam.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/016-mapper-noparam.swift
+END
+default.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/default.swift
+END
+037-numeric-literals.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/037-numeric-literals.swift
+END
+tc.template.mix.data
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/tc.template.mix.data
+END
+015-mapper-literal.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4947/branches/release-0.93/tests/language/working/015-mapper-literal.in
+END
+036-typedef-empty-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/036-typedef-empty-semi.swift
+END
+0064-fn-in-fn.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/0064-fn-in-fn.swift
+END
+063-filename_extraction.in
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4997/branches/release-0.93/tests/language/working/063-filename_extraction.in
+END
+034-whitespace.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/034-whitespace.swift
+END
+03102-var-decl.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/03102-var-decl.swift
+END
+025-datatypes.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/025-datatypes.swift
+END
+062-stdinerrout.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/5175/branches/release-0.93/tests/language/working/062-stdinerrout.setup.sh
+END
+018-comment-c-pairs.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/018-comment-c-pairs.swift
+END
+q13.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q13.swift
+END
+array_index.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/array_index.swift
+END
+q23.args
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q23.args
+END
+q15.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q15.swift
+END
+012-foreach.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/012-foreach.swift
+END
+x.swift
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/x.swift
+END
+q17.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q17.swift
+END
+017-comment-doubleslash.swift
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/017-comment-doubleslash.swift
+END
+042-compound-procedure.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/042-compound-procedure.swift
+END
+038-identifier-with-keyword-prefix.swift
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/038-identifier-with-keyword-prefix.swift
+END
+combine
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/combine
+END
+q2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q2.swift
+END
+arraymapper.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/arraymapper.swift
+END
+escapes.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/escapes.swift
+END
+file_counter.swift.disabled
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/file_counter.swift.disabled
+END
+048-many-namespaces-with-default.swift
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/048-many-namespaces-with-default.swift
+END
+014-mapper.swift
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/014-mapper.swift
+END
+q6.swift
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q6.swift
+END
+062-stdinerrout.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/062-stdinerrout.swift
+END
+array_wildcard.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/array_wildcard.swift
+END
+044-multiple-variable-decl.swift
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/044-multiple-variable-decl.swift
+END
+procedurecall-assign-multi-named-return-values.swift
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/procedurecall-assign-multi-named-return-values.swift
+END
+procedurecall-numeric-arg.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/procedurecall-numeric-arg.swift
+END
+range.swift
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/range.swift
+END
+case2.swift
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/case2.swift
+END
+00616-one-param-func-expr.swift
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/00616-one-param-func-expr.swift
+END
+03101-var-decl.swift
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/03101-var-decl.swift
+END
+026-optional-arg.swift
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/026-optional-arg.swift
+END
+063-filename_extraction.out.expected
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/vdl2/!svn/ver/4997/branches/release-0.93/tests/language/working/063-filename_extraction.out.expected
+END
+q20.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q20.swift
+END
+045-expr-in-array.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/045-expr-in-array.swift
+END
+q22.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q22.swift
+END
+title.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/title.txt
+END
+020-procedure-invocation-no-param.swift
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/020-procedure-invocation-no-param.swift
+END
+008-foreach.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/008-foreach.swift
+END
+004-string-assignment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/004-string-assignment.swift
+END
+013-foreach-in-proc.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/013-foreach-in-proc.swift
+END
+043-compound-procedure.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/043-compound-procedure.swift
+END
+0041-int-assignment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/0041-int-assignment.swift
+END
+001-type-with-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/001-type-with-semi.swift
+END
+q16.setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q16.setup.sh
+END
+060-stdinouterr.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/060-stdinouterr.swift
+END
+063-filename_extraction.swift
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/vdl2/!svn/ver/4997/branches/release-0.93/tests/language/working/063-filename_extraction.swift
+END
+0065-fn-in-fn-simple.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/0065-fn-in-fn-simple.swift
+END
+003-string-array-assignment.swift
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/003-string-array-assignment.swift
+END
+007-procedure-invocation-with-assign-and-whitespace.swift
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/007-procedure-invocation-with-assign-and-whitespace.swift
+END
+021-procedure-invocation-assign-no-param.swift
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/021-procedure-invocation-assign-no-param.swift
+END
+array_iteration.swift
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/array_iteration.swift
+END
+type-marker-braces.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/type-marker-braces.swift
+END
+023-leading-whitespace.swift
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/023-leading-whitespace.swift
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/generate
+END
+type-marker.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/type-marker.swift
+END
+005-procedure-invocation.swift
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/005-procedure-invocation.swift
+END
+028-namespace.swift
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/028-namespace.swift
+END
+q12.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q12.swift
+END
+0200001-function-invocation-no-param.swift
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/0200001-function-invocation-no-param.swift
+END
+q14.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q14.swift
+END
+struct1.swift
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/struct1.swift
+END
+011-foreach.swift
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/011-foreach.swift
+END
+q16.swift
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q16.swift
+END
+underscore-in-id.swift
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/underscore-in-id.swift
+END
+029-namespace-bound.swift
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/029-namespace-bound.swift
+END
+helloworld.swift
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/helloworld.swift
+END
+002-type-without-semi.swift
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/002-type-without-semi.swift
+END
+procedurecall-assign-multireturnvalues.swift
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/procedurecall-assign-multireturnvalues.swift
+END
+helloworld_named.swift
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/helloworld_named.swift
+END
+procedurecall-assign-named-return-value.swift
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/procedurecall-assign-named-return-value.swift
+END
+00615-one-param-func.swift
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/00615-one-param-func.swift
+END
+010-foreach-array.swift
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/010-foreach-array.swift
+END
+015-mapper-literal.swift
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/vdl2/!svn/ver/4947/branches/release-0.93/tests/language/working/015-mapper-literal.swift
+END
+q1.swift
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q1.swift
+END
+process
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/process
+END
+q3.swift
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/vdl2/!svn/ver/4761/branches/release-0.93/tests/language/working/q3.swift
+END

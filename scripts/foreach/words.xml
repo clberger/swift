@@ -1,0 +1,214 @@
+<program xmlns="http://ci.uchicago.edu/swift/2009/02/swiftscript"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <types>
+     	<type>
+     		<typename>inputfile</typename>
+     		<typealias>string</typealias>
+     		<typestructure></typestructure>
+     	</type>
+     	<type>
+     		<typename>shellfile</typename>
+     		<typealias>string</typealias>
+     		<typestructure></typestructure>
+     	</type>
+     	<type>
+     		<typename>pythonfile</typename>
+     		<typealias>string</typealias>
+     		<typestructure></typestructure>
+     	</type>
+     	<type>
+     		<typename>reducefile</typename>
+     		<typealias>string</typealias>
+     		<typestructure></typestructure>
+     	</type>
+     	<type>
+     		<typename>resultfile</typename>
+     		<typealias>string</typealias>
+     		<typestructure></typestructure>
+     	</type>
+     	<type>
+     		<typename>word</typename>
+     		<typealias></typealias>
+     		<typestructure>
+     			    <member>
+     					<membername>w</membername>
+     					<membertype>string</membertype>
+     				</member>
+     			    <member>
+     					<membername>c</membername>
+     					<membertype>int</membertype>
+     				</member>
+     		</typestructure>
+     	</type>
+     	<type>
+     		<typename>fullcount</typename>
+     		<typealias></typealias>
+     		<typestructure>
+     			    <member>
+     					<membername>words</membername>
+     					<membertype>word[]</membertype>
+     				</member>
+     		</typestructure>
+     	</type>   
+  </types>  
+  <procedure name="runmapreduce" src="line 54">
+
+      <output 
+    name="sout" type="reducefile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="shellscript" type="shellfile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="f" type="inputfile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="map" type="pythonfile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="combine" type="pythonfile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="reduce" type="pythonfile"
+
+     xsi:nil="true" />
+    <binding>
+      <application src="line 54">
+        <executable>shell</executable>
+        <stdout><function name="filename">
+          <variableReference>sout</variableReference></function></stdout><function name="filename">
+          <variableReference>shellscript</variableReference></function><function name="filename">
+          <variableReference>f</variableReference></function><function name="filename">
+          <variableReference>map</variableReference></function><function name="filename">
+          <variableReference>combine</variableReference></function><function name="filename">
+          <variableReference>reduce</variableReference></function>  </application>
+    </binding>
+  </procedure>
+  <procedure name="runaggregate" src="line 57">
+
+      <output 
+    name="sout" type="resultfile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="shellscript" type="shellfile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="aggregate" type="pythonfile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="r" type="reducefile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="res" type="resultfile"
+
+     xsi:nil="true" />
+    <binding>
+      <application src="line 57">
+        <executable>shell</executable>
+        <stdout><function name="filename">
+          <variableReference>sout</variableReference></function></stdout><stringConstant>source</stringConstant><function name="filename">
+          <variableReference>shellscript</variableReference></function><function name="filename">
+          <variableReference>aggregate</variableReference></function><function name="filename">
+          <variableReference>r</variableReference></function><function name="filename">
+          <variableReference>res</variableReference></function>  </application>
+    </binding>
+  </procedure>
+  <procedure name="cat" src="line 71">
+
+      <output 
+    name="output" type="resultfile"
+
+     xsi:nil="true" />
+
+      <input 
+    name="input" type="resultfile"
+
+     xsi:nil="true" />
+    <binding>
+      <application src="line 71">
+        <executable>cat</executable>
+        <stdout><function name="filename">
+          <variableReference>output</variableReference></function></stdout><function name="filename">
+          <variableReference>input</variableReference></function>  </application>
+    </binding>
+  </procedure>
+  <variable name="mapreduce_shell_script" type="shellfile" isGlobal="false">
+    <mapping descriptor="single_file_mapper">
+      <param name="file"><stringConstant>mapreduce.sh</stringConstant></param>
+    </mapping>
+  </variable>
+  <variable name="aggregate_shell_script" type="shellfile" isGlobal="false">
+    <mapping descriptor="single_file_mapper">
+      <param name="file"><stringConstant>aggregate.sh</stringConstant></param>
+    </mapping>
+  </variable>
+  <variable name="map_fun" type="pythonfile" isGlobal="false">
+    <mapping descriptor="single_file_mapper">
+      <param name="file"><stringConstant>mapcount.py</stringConstant></param>
+    </mapping>
+  </variable>
+  <variable name="combine_fun" type="pythonfile" isGlobal="false">
+    <mapping descriptor="single_file_mapper">
+      <param name="file"><stringConstant>combinecount.py</stringConstant></param>
+    </mapping>
+  </variable>
+  <variable name="reduce_fun" type="pythonfile" isGlobal="false">
+    <mapping descriptor="single_file_mapper">
+      <param name="file"><stringConstant>reducecount.py</stringConstant></param>
+    </mapping>
+  </variable>
+  <variable name="aggregate_fun" type="pythonfile" isGlobal="false">
+    <mapping descriptor="single_file_mapper">
+      <param name="file"><stringConstant>aggregatecount.py</stringConstant></param>
+    </mapping>
+  </variable>
+  <variable name="inputfiles" type="inputfile[]" isGlobal="false">
+    <mapping descriptor="filesys_mapper">
+      <param name="files"><stringConstant>files/*.txt</stringConstant></param>
+    </mapping>
+  </variable>
+  <variable name="result" type="resultfile" isGlobal="false">
+    <mapping descriptor="single_file_mapper">
+      <param name="file"><stringConstant>result.txt</stringConstant></param>
+    </mapping>
+  </variable>
+  <foreach var="f"  src="line 92">
+  <in><variableReference>inputfiles</variableReference></in>
+  <body><variable name="r" type="reducefile" isGlobal="false">
+      <mapping descriptor="regexp_mapper">
+        <param name="source"><function name="filename">
+          <variableReference>f</variableReference></function></param>
+        <param name="match"><stringConstant>(.*)txt</stringConstant></param>
+        <param name="transform"><stringConstant>\1reduce</stringConstant></param>
+      </mapping>
+    </variable>
+    <call proc="runmapreduce" src="line 110">
+      <output><variableReference>r</variableReference></output>
+      <input><variableReference>mapreduce_shell_script</variableReference></input>
+      <input><variableReference>f</variableReference></input>
+      <input><variableReference>map_fun</variableReference></input>
+      <input><variableReference>combine_fun</variableReference></input>
+      <input><variableReference>reduce_fun</variableReference></input>
+    </call></body>
+  </foreach>
+</program>

@@ -1,0 +1,202 @@
+<project><!-- CACHE ID 2ff2ef7d-5e02-40a8-8a19-da840b1ffbac -->
+  <import file="sys.xml"/>
+  <import file="scheduler.xml"/>
+  <import file="rlog.xml"/>
+  <import file="vdl.k"/>
+  <types>
+     <xs:schema targetNamespace="http://ci.uchicago.edu/swift/2009/02/swiftscript" xmlns="http://ci.uchicago.edu/swift/2009/02/swiftscript" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      	   <xs:simpleType name="messagefile">
+      	   <xs:restriction base="string"/>
+      	   </xs:simpleType>
+      	   <xs:simpleType name="countfile">
+      	   <xs:restriction base="string"/>
+      	   </xs:simpleType>  
+     </xs:schema>	 
+  </types>
+  <global name="swift#string#17006">
+    <vdl:new type="string" value="\1count" />
+  </global>
+  <global name="swift#string#17004">
+    <vdl:new type="string" value="(.*)txt" />
+  </global>
+  <global name="swift#string#17001">
+    <vdl:new type="string" value="files/holmes.txt files/huckfinn.txt files/prince.txt files/tomsawyer.txt files/ulysses.txt" />
+  </global>
+  <global name="swift#string#17000">
+    <vdl:new type="string" value="-w" />
+  </global>
+  <element name="countwords" arguments="t,f">
+    <parameterlog>
+    <string>input</string>
+    <string>f</string>
+    <vdl:getdatasetprovenanceid var="{f}" />
+    <string>{#thread}</string>
+    </parameterlog>
+    <parameterlog>
+    <string>output</string>
+    <string>t</string>
+    <vdl:getdatasetprovenanceid var="{t}" />
+    <string>{#thread}</string>
+    </parameterlog>
+    <log level="debug" message="PROCEDURE line=4 thread={#thread} name=countwords"/>
+    <vdl:execute>
+      <vdl:tr>wc</vdl:tr>
+      <vdl:stagein var="{f}"/>
+      <vdl:stageout var="{t}"/>
+      <vdl:arguments>
+        <variable>swift#string#17000</variable>
+        <swiftscript:filename>
+         <variable>f</variable> 
+        </swiftscript:filename>
+      </vdl:arguments>
+      <vdl:stdout>
+        <swiftscript:filename>
+         <variable>t</variable> 
+        </swiftscript:filename>
+      </vdl:stdout>
+    </vdl:execute>
+    <vdl:closedataset var="{t}"/>
+    <log level="debug" message="PROCEDURE_END line=4"/></element>
+
+  <set name="inputNames">
+        <vdl:new type="string" dbgname="inputNames" waitfor="88000" />
+  </set>
+  <parameterlog>
+  <string>intermediate</string>
+  <string>inputNames</string>
+  <vdl:getdatasetprovenanceid var="{inputNames}" />
+  <string>{#thread}</string>
+  </parameterlog>
+  <set name="inputfiles">
+    <vdl:new type="messagefile[]" dbgname="inputfiles">
+      <vdl:mapping descriptor="fixed_array_mapper">
+        <vdl:parameter name="files"><variable>inputNames</variable></vdl:parameter>
+        <vdl:parameter name="input" value="true" />
+      </vdl:mapping>
+    </vdl:new>
+  </set>
+  <parameterlog>
+  <string>intermediate</string>
+  <string>inputfiles</string>
+  <vdl:getdatasetprovenanceid var="{inputfiles}" />
+  <string>{#thread}</string>
+  </parameterlog>
+  <restartLog>
+  	<vdl:mains>
+		<vdl:startprogressticker />
+		<vdl:mainp>
+		    <parallel>
+		        <sequential>
+		             <vdl:setfieldvalue>
+		               <argument name="var">
+		                 <variable>inputNames</variable>
+		               </argument>
+		               <argument name="value">
+		                 <variable>swift#string#17001</variable>
+		               </argument>
+		             </vdl:setfieldvalue>
+		            <partialCloseDataset var="{inputNames}" closeID="88000" />
+		        </sequential>
+		        <sequential>
+		          <vdl:tparallelFor name="$">
+		            <getarrayiterator><variable>inputfiles</variable></getarrayiterator>
+		            <set names="$$, f">
+		              <each items="{$}"/>
+		            </set>
+		          	<log level="debug" message="FOREACH_IT_START line=12 thread={#thread}"/>
+		          <log level="debug"><string>SCOPE thread={#thread}</string></log>
+
+		              <set name="swift#mapper#17002">
+		                    <vdl:new type="string" dbgname="swift#mapper#17002" waitfor="" />
+		              </set>
+		              <parameterlog>
+		              <string>intermediate</string>
+		              <string>swift#mapper#17002</string>
+		              <vdl:getdatasetprovenanceid var="{swift#mapper#17002}" />
+		              <string>{#thread}</string>
+		              </parameterlog>
+		              <set name="swift#mapper#17003">
+		                    <vdl:new type="string" dbgname="swift#mapper#17003" waitfor="" />
+		              </set>
+		              <parameterlog>
+		              <string>intermediate</string>
+		              <string>swift#mapper#17003</string>
+		              <vdl:getdatasetprovenanceid var="{swift#mapper#17003}" />
+		              <string>{#thread}</string>
+		              </parameterlog>
+		              <set name="swift#mapper#17005">
+		                    <vdl:new type="string" dbgname="swift#mapper#17005" waitfor="" />
+		              </set>
+		              <parameterlog>
+		              <string>intermediate</string>
+		              <string>swift#mapper#17005</string>
+		              <vdl:getdatasetprovenanceid var="{swift#mapper#17005}" />
+		              <string>{#thread}</string>
+		              </parameterlog>
+		              <set name="c">
+		                <vdl:new type="countfile" dbgname="c" waitfor="88001">
+		                  <vdl:mapping descriptor="regexp_mapper">
+		                    <vdl:parameter name="source"><variable>swift#mapper#17002</variable></vdl:parameter>
+		                    <vdl:parameter name="match"><vdl:new type="string" value="(.*)txt" /></vdl:parameter>
+		                    <vdl:parameter name="transform"><vdl:new type="string" value="\1count" /></vdl:parameter>
+		                  </vdl:mapping>
+		                </vdl:new>
+		              </set>
+		              <parameterlog>
+		              <string>intermediate</string>
+		              <string>c</string>
+		              <vdl:getdatasetprovenanceid var="{c}" />
+		              <string>{#thread}</string>
+		              </parameterlog>
+		                <parallel>
+		                    <sequential>
+		                         <vdl:setfieldvalue>
+		                           <argument name="var">
+		                             <variable>swift#mapper#17002</variable>
+		                           </argument>
+		                           <argument name="value">
+		                             <swiftscript:filename>
+		                              <variable>f</variable> 
+		                             </swiftscript:filename>
+		                           </argument>
+		                         </vdl:setfieldvalue>
+		                    </sequential>
+		                    <sequential>
+		                         <vdl:setfieldvalue>
+		                           <argument name="var">
+		                             <variable>swift#mapper#17003</variable>
+		                           </argument>
+		                           <argument name="value">
+		                             <variable>swift#string#17004</variable>
+		                           </argument>
+		                         </vdl:setfieldvalue>
+		                    </sequential>
+		                    <sequential>
+		                         <vdl:setfieldvalue>
+		                           <argument name="var">
+		                             <variable>swift#mapper#17005</variable>
+		                           </argument>
+		                           <argument name="value">
+		                             <variable>swift#string#17006</variable>
+		                           </argument>
+		                         </vdl:setfieldvalue>
+		                    </sequential>
+		                    <sequential>
+		                      <countwords>
+		                        <parallel>
+		                          <variable>c</variable>
+		                          <variable>f</variable>
+		                        </parallel>
+		                      </countwords>
+		                        <partialCloseDataset var="{c}" closeID="88001" />
+		                    </sequential>
+		                </parallel>
+		              <log level="debug" message="FOREACH_IT_END line=12 thread={#thread}"/>
+		          </vdl:tparallelFor>
+		        </sequential>
+		    </parallel>
+		</vdl:mainp>
+		<vdl:stopprogressticker />
+	</vdl:mains>
+  </restartLog>  
+</project>

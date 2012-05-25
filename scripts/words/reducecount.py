@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #reducecount.py - the reduce function for word counting
 from sys import argv
 from sys import stdin

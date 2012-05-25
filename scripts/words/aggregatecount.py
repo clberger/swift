@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from sys import argv
 
 fin = open(argv[1],"r")

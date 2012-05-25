@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #combinecount.py - the combiner function for word counting
 from sys import argv
 from sys import stdin
